@@ -4,6 +4,18 @@
 
 Este es un repositorio personal para ejecución del proyecto del curso **Patrones de Diseño: Soluciones prácticas y eficientes** de **Fernando Herrera** en la plataforma de Udemy. Para acceder al curso completo puede hacer [clic aquí](https://www.udemy.com/course/patrones-diseno/)
 
+# Listado de recursos adicionales
+
+* [Refactoring Guru](https://refactoring.guru/es/design-patterns/catalog)
+
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans?tab=readme-ov-file)
+
+* [Patterns.dev](https://www.patterns.dev/)
+
+* [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+
+* [Design Patterns TypeScript](https://github.com/torokmark/design_patterns_in_typescript?tab=readme-ov-file)
+
 ## Requerimientos
 
 - Deno 2.3.1
